@@ -1,0 +1,30 @@
+{
+  "name": "things-elements",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ThingsElements/things-elements",
+  "authors": [
+    "heartyoh <heartyoh@hatiolab.com>"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "things"
+  ],
+  "description": "",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ThingsElements/things-elements.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "main": "things-elements.html"
+}
