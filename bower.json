@@ -25,6 +25,8 @@
     "tests"
   ],
   "dependencies": {
+    "things-global-behavior": "ThingsElements/things-global-behavior#^1.0.0",
+    "things-id": "ThingsElements/things-id#^1.0.0"
   },
   "main": "things-elements.html"
 }
