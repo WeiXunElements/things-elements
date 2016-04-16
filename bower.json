@@ -26,7 +26,8 @@
   ],
   "dependencies": {
     "things-global-behavior": "ThingsElements/things-global-behavior#^0.0.1",
-    "things-id": "ThingsElements/things-id#^0.0.1"
+    "things-id": "ThingsElements/things-id#^0.0.1",
+    "things-angle-input": "ThingsElements/things-angle-input#^1.0.0"
   },
   "main": "things-elements.html"
 }
