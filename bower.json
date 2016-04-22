@@ -11,7 +11,7 @@
     "things"
   ],
   "description": "",
-  "main": "",
+  "main": "things-elements.html",
   "repository": {
     "type": "git",
     "url": "git://github.com/ThingsElements/things-elements.git"
@@ -29,11 +29,13 @@
     "things-id": "ThingsElements/things-id#^0.0.1",
     "things-angle-input": "ThingsElements/things-angle-input#^1.0.2",
     "things-scene-viewer": "ThingsElements/things-scene-viewer#^0.0.7",
-    "things-monitor": "ThingsElements/things-monitor#^0.0.2"
+    "things-monitor": "ThingsElements/things-monitor#^0.0.2",
+    "things-combo": "ThingsElements/things-combo#^0.0.1",
+    "things-import-excel": "ThingsElements/things-import-excel#^0.0.1",
+    "things-spinner": "ThingsElements/things-spinner#^0.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "web-component-tester": "^4.0.0"
-  },
-  "main": "things-elements.html"
+  }
 }
