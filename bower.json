@@ -35,7 +35,9 @@
     "things-code-editor": "ThingsElements/things-code-editor#latest",
     "things-combo": "ThingsElements/things-combo#latest",
     "things-date-picker": "ThingsElements/things-date-picker#latest",
+    "things-full-dialog": "ThingsElements/things-full-dialog#latest",
     "things-global-behavior": "ThingsElements/things-global-behavior#latest",
+    "things-html-preview": "ThingsElements/things-html-preview#latest",
     "things-i18n-msg": "ThingsElements/things-i18n-msg#latest",
     "things-id": "ThingsElements/things-id##latest",
     "things-import-excel": "ThingsElements/things-import-excel#latest",
@@ -43,7 +45,7 @@
     "things-resource-combo": "ThingsElements/things-resource-combo#latest",
     "things-setting": "ThingsElements/things-setting#latest",
     "things-spinner": "ThingsElements/things-spinner#latest",
-    "things-tristate-ckeckbox": "ThingsElements/things-tristate-ckeckbox#latest",
+    "things-tristate-checkbox": "ThingsElements/things-tristate-checkbox#latest",
     "things-upload": "ThingsElements/things-upload#latest"
   },
   "devDependencies": {
