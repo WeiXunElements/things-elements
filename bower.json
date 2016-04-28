@@ -45,6 +45,7 @@
     "things-i18n-msg": "ThingsElements/things-i18n-msg#latest",
     "things-id": "ThingsElements/things-id##latest",
     "things-import-excel": "ThingsElements/things-import-excel#latest",
+    "things-meta": "ThingsElements/things-meta#latest",
     "things-msg-box-behavior": "ThingsElements/things-msg-box-behavior#latest",
     "things-paginator": "ThingsElements/things-paginator#latest",
     "things-resource-combo": "ThingsElements/things-resource-combo#latest",
@@ -52,7 +53,8 @@
     "things-spinner": "ThingsElements/things-spinner#latest",
     "things-tristate-checkbox": "ThingsElements/things-tristate-checkbox#latest",
     "things-upload": "ThingsElements/things-upload#latest",
-    "things-ws": "ThingsElements/things-ws#latest"
+    "things-ws": "ThingsElements/things-ws#latest",
+    "things-resource-selector": "ThingsElements/things-resource-selector#^0.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
