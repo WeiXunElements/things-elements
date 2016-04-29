@@ -43,7 +43,7 @@
     "things-grid-behavior": "ThingsElements/things-grid-behavior",
     "things-html-preview": "ThingsElements/things-html-preview",
     "things-i18n-msg": "ThingsElements/things-i18n-msg",
-    "things-id": "ThingsElements/things-id#",
+    "things-id": "ThingsElements/things-id",
     "things-import-excel": "ThingsElements/things-import-excel",
     "things-meta": "ThingsElements/things-meta",
     "things-msg-box-behavior": "ThingsElements/things-msg-box-behavior",
@@ -62,7 +62,9 @@
     "things-profile": "ThingsElements/things-profile",
     "things-tabs": "ThingsElements/things-tabs",
     "things-layout": "ThingsElements/things-layout",
-    "things-route-content-behavior": "ThingsElements/things-route-content-behavior"
+    "things-route-content-behavior": "ThingsElements/things-route-content-behavior",
+    "things-input-field": "ThingsElements/things-input-field",
+    "things-detail": "ThingsElements/things-detail"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
