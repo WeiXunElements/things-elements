@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -55,8 +55,12 @@
     "things-upload": "ThingsElements/things-upload",
     "things-ws": "ThingsElements/things-ws",
     "things-resource-selector": "ThingsElements/things-resource-selector",
-    "things-view-open-behavior":"ThingsElements/things-view-open-behavior"
-
+    "things-view-open-behavior": "ThingsElements/things-view-open-behavior",
+    "things-attached-file": "ThingsElements/things-attached-file",
+    "things-extension": "ThingsElements/things-extension",
+    "things-auth": "ThingsElements/things-auth",
+    "things-profile": "ThingsElements/things-profile",
+    "things-tabs": "ThingsElements/things-tabs"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
