@@ -30,7 +30,7 @@
     "things-monitor": "ThingsElements/things-monitor#^0.0.2",
     "things-ajax": "ThingsElements/things-ajax#latest",
     "things-alarm": "ThingsElements/things-alarm#latest",
-    "things-button": "ThingsElements/things-button#latest",
+    "things-button": "ThingsElements/things-button#0.1.0",
     "things-card": "ThingsElements/things-card#latest",
     "things-code-editor": "ThingsElements/things-code-editor#latest",
     "things-combo": "ThingsElements/things-combo#latest",
