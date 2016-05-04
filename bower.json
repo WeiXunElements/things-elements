@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -66,7 +66,8 @@
     "things-input-field": "ThingsElements/things-input-field",
     "things-detail": "ThingsElements/things-detail",
     "things-stamp": "ThingsElements/things-stamp",
-    "things-recent-page": "ThingsElements/things-recent-page"
+    "things-recent-page": "ThingsElements/things-recent-page",
+    "things-xmes-theme": "ThingsElements/things-xmes-theme"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
