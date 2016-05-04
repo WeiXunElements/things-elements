@@ -65,8 +65,7 @@
     "things-route-content-behavior": "ThingsElements/things-route-content-behavior",
     "things-input-field": "ThingsElements/things-input-field",
     "things-detail": "ThingsElements/things-detail",
-    "things-stamp": "ThingsElements/things-stamp",
-    "things-recent-page": "ThingsElemets/things-recent-page"
+    "things-stamp": "ThingsElements/things-stamp"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
