@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.24",
+  "version": "0.0.26",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -25,9 +25,7 @@
     "tests"
   ],
   "dependencies": {
-    "things-angle-input": "ThingsElements/things-angle-input#^1.0.2",
-    "things-scene-viewer": "ThingsElements/things-scene-viewer#^0.0.11",
-    "things-monitor": "ThingsElements/things-monitor#^0.0.2",
+    "things-angle-input": "ThingsElements/things-angle-input",
     "things-ajax": "ThingsElements/things-ajax",
     "things-alarm": "ThingsElements/things-alarm",
     "things-button": "ThingsElements/things-button",
