@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -54,18 +54,18 @@
     "things-ws": "ThingsElements/things-ws",
     "things-resource-selector": "ThingsElements/things-resource-selector",
     "things-view-open-behavior": "ThingsElements/things-view-open-behavior",
-    "things-attached-file": "ThingsElements/things-attached-file",
-    "things-extension": "ThingsElements/things-extension",
     "things-auth": "ThingsElements/things-auth",
     "things-profile": "ThingsElements/things-profile",
-    "things-tabs": "ThingsElements/things-tabs",
     "things-layout": "ThingsElements/things-layout",
     "things-route-content-behavior": "ThingsElements/things-route-content-behavior",
     "things-input-field": "ThingsElements/things-input-field",
     "things-detail": "ThingsElements/things-detail",
     "things-stamp": "ThingsElements/things-stamp",
     "things-recent-page": "ThingsElements/things-recent-page",
-    "things-xmes-theme": "ThingsElements/things-xmes-theme"
+    "things-xmes-theme": "ThingsElements/things-xmes-theme",
+    "things-attached-file": "ThingsElements/things-attached-file",
+    "things-extension": "ThingsElements/things-extension",
+    "things-tabs": "ThingsElements/things-tabs"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
