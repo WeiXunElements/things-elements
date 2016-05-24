@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -63,7 +63,7 @@
     "things-detail": "ThingsElements/things-detail",
     "things-stamp": "ThingsElements/things-stamp",
     "things-recent-page": "ThingsElements/things-recent-page",
-    "things-xmes-theme": "ThingsElements/things-xmes-theme",
+    "things-theme": "ThingsElements/things-theme",
     "things-attached-file": "ThingsElements/things-attached-file",
     "things-extension": "ThingsElements/things-extension",
     "things-tabs": "ThingsElements/things-tabs",
