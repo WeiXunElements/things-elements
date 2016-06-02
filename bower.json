@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -67,7 +67,8 @@
     "things-attached-file": "ThingsElements/things-attached-file",
     "things-extension": "ThingsElements/things-extension",
     "things-tabs": "ThingsElements/things-tabs",
-    "things-validators": "ThingsElements/things-validators"
+    "things-validators": "ThingsElements/things-validators",
+    "things-card-image": "ThingsElements/things-card-image"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
