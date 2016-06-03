@@ -69,7 +69,8 @@
     "things-tabs": "ThingsElements/things-tabs",
     "things-validators": "ThingsElements/things-validators",
     "things-card-image": "ThingsElements/things-card-image",
-    "things-image-selector": "ThingsElements/things-image-selector"
+    "things-image-selector": "ThingsElements/things-image-selector",
+    "things-image-button": "ThingsElements/things-image-button"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
