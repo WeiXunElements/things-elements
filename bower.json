@@ -72,7 +72,8 @@
     "things-image-selector": "ThingsElements/things-image-selector",
     "things-video-selector": "ThingsElements/things-video-selector",
     "things-image-button": "ThingsElements/things-image-button",
-    "things-event-manager": "ThingsElements/things-event-manager"
+    "things-event-manager": "ThingsElements/things-event-manager",
+    "things-file-selector": "ThingsElements/things-file-selector"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
