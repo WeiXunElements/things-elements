@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -74,7 +74,9 @@
     "things-image-button": "ThingsElements/things-image-button",
     "things-event-manager": "ThingsElements/things-event-manager",
     "things-file-selector": "ThingsElements/things-file-selector",
-    "things-scene-content": "ThingsElements/things-scene-content"
+    "things-scene-content": "ThingsElements/things-scene-content",
+    "things-content": "ThingsElements/things-content",
+    "things-meta-view": "ThingsElements/things-meta-view"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
