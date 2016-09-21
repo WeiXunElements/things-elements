@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.41",
+  "version": "0.0.42",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -75,7 +75,8 @@
     "things-event-manager": "ThingsElements/things-event-manager",
     "things-file-selector": "ThingsElements/things-file-selector",
     "things-content": "ThingsElements/things-content",
-    "things-section": "ThingsElements/things-section"
+    "things-section": "ThingsElements/things-section",
+    "things-dialog-manager": "ThingsElements/things-dialog-manager"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
