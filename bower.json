@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -25,7 +25,6 @@
     "tests"
   ],
   "dependencies": {
-    "things-angle-input": "ThingsElements/things-angle-input",
     "things-ajax": "ThingsElements/things-ajax",
     "things-alarm": "ThingsElements/things-alarm",
     "things-button": "ThingsElements/things-button",
