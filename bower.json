@@ -78,8 +78,7 @@
     "things-dialog-manager": "ThingsElements/things-dialog-manager",
     "things-system-manager": "ThingsElements/things-system-manager",
     "things-calendar": "ThingsElements/things-calendar",
-    "things-image-dialog": "ThingsElements/things-image-dialog",
-    "things-number-field": "ThingsElements/things-number-field"
+    "things-image-dialog": "ThingsElements/things-image-dialog"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
