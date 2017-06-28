@@ -82,8 +82,7 @@
     "things-image-dialog": "ThingsElements/things-image-dialog",
     "things-number-field": "ThingsElements/things-number-field",
     "things-responsive-iframe": "ThingsElements/things-responsive-iframe",
-    "things-portal-display": "ThingsElements/things-portal-display",
-    "things-mobile-elements": "ThingsElements/things-mobile-elements"
+    "things-portal-display": "ThingsElements/things-portal-display"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
