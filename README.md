@@ -1,2 +1,2 @@
 # things-elements
-본 프로젝트는 전체 THINGS Framework에 사용될 ELEMENT를 한번에 Require할 수 있는 프로젝트다.
+Things Framework에서 필요한 컴포넌트들을 한 번에 받아올 목적으로 생성되었다.
