@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.52",
+  "version": "0.0.53",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -25,6 +25,7 @@
     "tests"
   ],
   "dependencies": {
+    "things-license-checker-min": "ThingsElements/things-license-checker-min",
     "things-ajax": "ThingsElements/things-ajax",
     "things-alarm": "ThingsElements/things-alarm",
     "things-button": "ThingsElements/things-button",
