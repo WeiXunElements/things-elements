@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.54",
+  "version": "0.0.55",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -83,7 +83,8 @@
     "things-number-field": "ThingsElements/things-number-field",
     "things-responsive-iframe": "ThingsElements/things-responsive-iframe",
     "things-portal-display": "ThingsElements/things-portal-display",
-    "things-mobile-elements": "ThingsElements/things-mobile-elements"
+    "things-mobile-elements": "ThingsElements/things-mobile-elements",
+    "things-popup-editor": "ThingsElements/things-popup-editor"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
