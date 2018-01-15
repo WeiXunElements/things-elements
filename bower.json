@@ -82,8 +82,6 @@
     "things-image-dialog": "ThingsElements/things-image-dialog",
     "things-number-field": "ThingsElements/things-number-field",
     "things-responsive-iframe": "ThingsElements/things-responsive-iframe",
-    "things-portal-display": "ThingsElements/things-portal-display",
-    "things-mobile-elements": "ThingsElements/things-mobile-elements",
     "things-popup-editor": "ThingsElements/things-popup-editor"
   },
   "devDependencies": {
