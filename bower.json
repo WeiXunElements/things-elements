@@ -32,7 +32,7 @@
     "things-card": "ThingsElements/things-card",
     "things-code-editor": "ThingsElements/things-code-editor",
     "things-combo": "ThingsElements/things-combo",
-    "things-date-picker": "ThingsElements/things-date-picker",
+    "things-date-picker": "ThingsElements/things-date-picker#master",
     "things-full-dialog": "ThingsElements/things-full-dialog",
     "things-fullscreen": "ThingsElements/things-fullscreen",
     "things-form": "ThingsElements/things-form",
