@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.76",
+    "version": "0.0.77",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -37,7 +37,7 @@
         "things-fullscreen": "ThingsElements/things-fullscreen",
         "things-form": "WeiXunElements/things-form",
         "things-global-behavior": "ThingsElements/things-global-behavior",
-        "things-grid": "ThingsElements/things-grid",
+        "things-grid": "ThingsElements/things-grid#2.2.0",
         "things-grid-behavior": "WeiXunElements/things-grid-behavior",
         "things-html-preview": "ThingsElements/things-html-preview",
         "things-i18n-msg": "ThingsElements/things-i18n-msg",
