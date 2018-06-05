@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.77",
+    "version": "0.0.78",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -57,7 +57,7 @@
         "things-view-open-behavior": "ThingsElements/things-view-open-behavior",
         "things-auth": "ThingsElements/things-auth",
         "things-profile": "ThingsElements/things-profile",
-        "things-layout": "ThingsElements/things-layout",
+        "things-layout": "WeiXunElements/things-layout",
         "things-route-content-behavior": "ThingsElements/things-route-content-behavior",
         "things-input-field": "WeiXunElements/things-input-field",
         "things-detail": "ThingsElements/things-detail",
