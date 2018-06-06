@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.78",
+    "version": "0.0.79",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -44,7 +44,7 @@
         "things-id": "ThingsElements/things-id",
         "things-import-excel": "WeiXunElements/things-import-excel",
         "things-meta": "WeiXunElements/things-meta",
-        "things-msg-box-behavior": "ThingsElements/things-msg-box-behavior",
+        "things-msg-box-behavior": "WeiXunElements/things-msg-box-behavior",
         "things-paginator": "ThingsElements/things-paginator",
         "things-resource-combo": "ThingsElements/things-resource-combo",
         "things-setting": "ThingsElements/things-setting",
