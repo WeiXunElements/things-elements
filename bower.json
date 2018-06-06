@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.79",
+    "version": "0.0.80",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -49,7 +49,7 @@
         "things-resource-combo": "ThingsElements/things-resource-combo",
         "things-setting": "ThingsElements/things-setting",
         "things-spinner": "ThingsElements/things-spinner",
-        "things-tristate-checkbox": "ThingsElements/things-tristate-checkbox",
+        "things-tristate-checkbox": "WeiXunElements/things-tristate-checkbox",
         "things-tristate-radio": "ThingsElements/things-tristate-radio",
         "things-upload": "ThingsElements/things-upload",
         "things-ws": "ThingsElements/things-ws",
