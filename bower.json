@@ -1,6 +1,6 @@
 {
   "name": "things-elements",
-  "version": "0.0.74",
+  "version": "0.0.75",
   "homepage": "https://github.com/ThingsElements/things-elements",
   "authors": [
     "heartyoh <heartyoh@hatiolab.com>"
@@ -82,7 +82,8 @@
     "things-image-dialog": "ThingsElements/things-image-dialog",
     "things-number-field": "ThingsElements/things-number-field",
     "things-responsive-iframe": "ThingsElements/things-responsive-iframe",
-    "things-popup-editor": "ThingsElements/things-popup-editor"
+    "things-popup-editor": "ThingsElements/things-popup-editor",
+    "things-dialog-resize-behavior":"ThingsElements/things-dialog-resize-behavior"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
