@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.81",
+    "version": "0.0.82",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -80,7 +80,7 @@
         "things-system-manager": "WeiXunElements/things-system-manager",
         "things-calendar": "ThingsElements/things-calendar",
         "things-image-dialog": "ThingsElements/things-image-dialog",
-        "things-number-field": "ThingsElements/things-number-field",
+        "things-number-field": "WeiXunElements/things-number-field",
         "things-responsive-iframe": "ThingsElements/things-responsive-iframe",
         "things-popup-editor": "ThingsElements/things-popup-editor",
         "things-dialog-resize-behavior": "ThingsElements/things-dialog-resize-behavior"
