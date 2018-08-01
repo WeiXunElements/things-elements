@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.82",
+    "version": "0.0.84",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -31,7 +31,7 @@
         "things-button": "ThingsElements/things-button",
         "things-card": "ThingsElements/things-card",
         "things-code-editor": "ThingsElements/things-code-editor",
-        "things-combo": "ThingsElements/things-combo",
+        "things-combo": "WeiXunElements/things-combo",
         "things-date-picker": "WeiXunElements/things-date-picker",
         "things-full-dialog": "ThingsElements/things-full-dialog",
         "things-fullscreen": "ThingsElements/things-fullscreen",
