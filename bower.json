@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.85",
+    "version": "0.0.86",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -68,7 +68,7 @@
         "things-extension": "ThingsElements/things-extension",
         "things-tabs": "ThingsElements/things-tabs",
         "things-validators": "ThingsElements/things-validators",
-        "things-card-image": "ThingsElements/things-card-image",
+        "things-card-image": "WeiXunElements/things-card-image",
         "things-image-selector": "ThingsElements/things-image-selector",
         "things-video-selector": "ThingsElements/things-video-selector",
         "things-image-button": "ThingsElements/things-image-button",
