@@ -1,6 +1,6 @@
 {
     "name": "things-elements",
-    "version": "0.0.89",
+    "version": "0.0.91",
     "homepage": "https://github.com/ThingsElements/things-elements",
     "authors": [
         "heartyoh <heartyoh@hatiolab.com>"
@@ -74,7 +74,7 @@
         "things-image-button": "ThingsElements/things-image-button",
         "things-event-manager": "ThingsElements/things-event-manager",
         "things-file-selector": "ThingsElements/things-file-selector",
-        "things-content": "WeiXunElements/things-content",
+        "things-content": "WeiXunElements/things-content#2.2.7",
         "things-section": "ThingsElements/things-section",
         "things-dialog-manager": "ThingsElements/things-dialog-manager",
         "things-system-manager": "WeiXunElements/things-system-manager",
