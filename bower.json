@@ -53,7 +53,7 @@
         "things-tristate-radio": "ThingsElements/things-tristate-radio",
         "things-upload": "ThingsElements/things-upload",
         "things-ws": "WeiXunElements/things-ws",
-        "things-resource-selector": "WeiXunElements/things-resource-selector",
+        "things-resource-selector": "WeiXunElements/things-resource-selector#2.2.15",
         "things-view-open-behavior": "ThingsElements/things-view-open-behavior",
         "things-auth": "ThingsElements/things-auth",
         "things-profile": "ThingsElements/things-profile",
